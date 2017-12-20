@@ -38,3 +38,5 @@ function removeElementFromBeginningOfArray(array) {
   b.shift()
   return b
 }
+
+
